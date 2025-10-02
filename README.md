@@ -1,4 +1,4 @@
-
+#QUANTITATIVE RESEARCH
 ```md
 # 📊 Finance Analytics Project (JPMorgan Inspired)
 
