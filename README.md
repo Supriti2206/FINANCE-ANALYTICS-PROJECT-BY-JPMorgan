@@ -166,8 +166,4 @@ scipy==1.14.1
 
 ✨ *Developed with passion for data-driven finance analytics* ✨
 
-```
-
----
-
 
